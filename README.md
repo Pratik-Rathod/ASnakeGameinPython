@@ -1,4 +1,4 @@
-# ASnakeGameinPython
+A Snake Game in Python
 <ul>
   <li><h2>A experiment for learn tkinter A snake Game in future it will integrated with ML</h2></li>
   <li>This game was fun for me !</li>
