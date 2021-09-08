@@ -5,6 +5,9 @@
  - I will integrate ML model soon ~~maybe~~
  - download code & run it on your local machine 
  - it took me  1 day to learn tkinter & make this game 
- 
+ - enjoy
+ code 
+[download zip](https://github.com/Pratik-Rathod/ASnakeGameinPython/archive/refs/heads/master.zip)
+
 **Screenshot**
 ><img src="snake/Screenshot.png" height="500" width="800" />
